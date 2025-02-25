@@ -110,7 +110,7 @@ This project was a valuable learning experience in applying machine learning tec
    ```bash
    jupyter notebook Logistic_regression_project.ipynb
 
-   Alternatively, if you want to run the Python script:
+Alternatively, if you want to run the Python script:
    ```bash
    python Logistic_regression_project.ipynb
 
